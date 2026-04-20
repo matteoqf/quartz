@@ -35,3 +35,8 @@ node_modules/
 
 # Ignore Smart Environment folder
 .smart-env
+
+# --- Quartz 构建产物 ---
+public/
+.quartz-cache/
+tsconfig.tsbuildinfo
