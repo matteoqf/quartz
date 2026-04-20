@@ -1,6 +1,5 @@
 # 04_Human_MOC MOC
 
-
 ## Human
 
 - [习得性无助](../30_Cards/04_Human/习得性无助.md)

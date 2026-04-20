@@ -1,6 +1,5 @@
 # 05_Social_MOC MOC
 
-
 ## Social
 
 - [破窗效应](../30_Cards/05_Social/破窗效应.md)

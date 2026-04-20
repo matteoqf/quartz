@@ -1,8 +1,5 @@
 # 06_Applied_MOC MOC
 
-
-- [Fnm教程](../30_Cards/06_Applied/Fnm教程.md)
-- [yabai教程](../30_Cards/06_Applied/yabai教程.md)
 ## Applied
 
 - [个人征信与信用卡机制](../30_Cards/06_Applied/个人征信与信用卡机制.md)
@@ -28,3 +25,5 @@
 - [行政官僚体系对接](../30_Cards/06_Applied/行政官僚体系对接.md)
 - [院前急救与黄金窗口](../30_Cards/06_Applied/院前急救与黄金窗口.md)
 - [食品安全与食材保存](../30_Cards/06_Applied/食品安全与食材保存.md)
+- [Fnm教程](../30_Cards/06_Applied/Fnm教程.md)
+- [yabai教程](../30_Cards/06_Applied/yabai教程.md)
