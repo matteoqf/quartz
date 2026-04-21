@@ -32,7 +32,7 @@ title: Matteo Wiki
 - 延迟满足效应 · 投射效应 · 暗示效应 · 曝光效应 · 框架效应
 - 确认偏误 · 近因效应 · 首因效应 · 基准效应 · 对比效应
 - 棘轮效应 · 沉没成本效应 · 禁果效应 · 缺憾效应 · 自我实现预言
-- [更多 →](../20_Areas/04_Human_MOC)
+- [[20_Areas/04_Human_MOC|更多 →]]
 
 ### 🏛️ 社会与组织 Sociology & Management
 
@@ -42,7 +42,7 @@ title: Matteo Wiki
 - 长尾效应 · 二八定律 · 帕金森定律 · 彼得原理 · 木桶定律
 - 手表定律 · 蘑菇管理定律 · 鲶鱼效应 · 霍桑效应 · 螃蟹效应
 - 职场生态位与利益博弈 · 社会心理学与人际边界网
-- [更多 →](../20_Areas/05_Social_MOC)
+- [[20_Areas/05_Social_MOC|更多 →]]
 
 ### 🔧 生存技能 Applied Skills
 
@@ -51,7 +51,7 @@ title: Matteo Wiki
 - 个人征信与信用卡机制 · 个税汇算与社保账户 · 院前急救与黄金窗口
 - 商业保险配置逻辑 · 投资防骗与资产配置 · 紧急备用金与现金流管理
 - 劳动争议与维权 · 消费者保护与合同 · 医疗系统逆向工程
-- [更多 →](../20_Areas/06_Applied_MOC)
+- [[20_Areas/06_Applied_MOC|更多 →]]
 
 ### ⚛️ 物理学 Physics
 
@@ -60,7 +60,7 @@ title: Matteo Wiki
 - 光的反射与折射 · 能量守恒 · 质能方程 · 杠杆平衡 · 浮力定律
 - 电磁感应 · 变压器 · 短路与过载 · 安全电压
 - 黑洞 · 波粒二象性 · 原子结构 · 红移现象
-- [更多 →](../30_Cards/10_Physics)
+- [[30_Cards/10_Physics|更多 →]]
 
 ### 🤖 人工智能 Artificial Intelligence
 
@@ -69,7 +69,7 @@ title: Matteo Wiki
 - LLM · Transformer · Attention Mechanism · Chain of Thought
 - RAG · Fine-tuning · Quantization · RLHF
 - Agent · Multi-modal · AIGC · Alignment · Hallucination
-- [更多 →](../30_Cards/20_AI)
+- [[30_Cards/20_AI|更多 →]]
 
 ---
 
@@ -84,8 +84,7 @@ title: Matteo Wiki
 
 ## 🔗 导航
 
-- [📂 全部笔记 (Explorer)](../)
-- [🗺️ 认知科学地图](../20_Areas/04_Human_MOC)
-- [🏛️ 社会与组织地图](../20_Areas/05_Social_MOC)
-- [🔧 应用工程地图](../20_Areas/06_Applied_MOC)
+- [[20_Areas/04_Human_MOC|🗺️ 认知科学地图]]
+- [[20_Areas/05_Social_MOC|🏛️ 社会与组织地图]]
+- [[20_Areas/06_Applied_MOC|🔧 应用工程地图]]
 - [📄 GitHub 仓库](https://github.com/matteoqf/quartz)
