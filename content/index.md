@@ -1,21 +1,91 @@
 ---
-title: Welcome
+title: Matteo Wiki
 ---
 
-# Welcome to My Knowledge Base
+# 🧭 Matteo Wiki
 
-This is my personal knowledge management system, powered by [Obsidian](https://obsidian.md) and published with [Quartz](https://quartz.jzhao.xyz).
+> **知识是一种系统化的信念。** 这里是我用 Obsidian 管理的个人知识库，涵盖认知心理学、人工智能、实用生存技能等领域的原子笔记。
 
-## Browse
+---
 
-- [[30_Cards/01_Formal/]] — Formal Sciences (Code, Logic, Math, AI)
-- [[30_Cards/02_Physical/]] — Physical Sciences (Geography, Physics, Chemistry, Hardware)
-- [[30_Cards/03_Life/]] — Life Sciences (Health, Medical, Biology)
-- [[30_Cards/04_Human/]] — Human Sciences (Psychology, Cognitive, Philosophy)
-- [[30_Cards/05_Social/]] — Social Sciences (Relationships, Law, Economics, Sociology)
-- [[30_Cards/06_Applied/]] — Applied Sciences (System, Productivity, Life Engineering, Design)
-- [[30_Cards/07_Self/]] — Self Sciences (Note-taking, Principles, Growth)
+## 📚 知识分类
 
-## Notes
+| | 分类 | 说明 | 笔记数 |
+|---|------|------|--------|
+| 🧮 | **01 形式科学** | 代码、逻辑、数学、Shell 命令 | 规划中 |
+| ⚗️ | **02 物理世界** | 硬件、系统、网络、电子工程 | 规划中 |
+| 🌱 | **03 生活百科** | 健康、饮食、地理、语言 | 2 |
+| 🧠 | **04 认知科学** | 认知偏差、心理学效应、心理健康 | 35 |
+| 🏛️ | **05 社会与组织** | 社会学效应、组织管理定律 | 18 |
+| 🔧 | **06 应用工程** | 生存技能、法律常识、技术工具 | 24 |
+| 🧬 | **07 自我成长** | 元认知、习惯、目标管理 | 规划中 |
 
-Content in this vault is organized using the **PARA** method with a custom category system.
+---
+
+## 🧠 核心领域
+
+### 认知偏差 Cognitive Biases
+
+> 人类大脑的系统性思维错误，是进化遗留的认知捷径。
+
+- 习得性无助 · 甜柠檬效应 · 酸葡萄效应 · 安慰剂效应 · 德西效应
+- 延迟满足效应 · 投射效应 · 暗示效应 · 曝光效应 · 框架效应
+- 确认偏误 · 近因效应 · 首因效应 · 基准效应 · 对比效应
+- 棘轮效应 · 沉没成本效应 · 禁果效应 · 缺憾效应 · 自我实现预言
+- [更多 →](../20_Areas/04_Human_MOC)
+
+### 🏛️ 社会与组织 Sociology & Management
+
+> 社会学效应与组织管理定律，理解群体行为的底层逻辑。
+
+- 马太效应 · 破窗效应 · 蝴蝶效应 · 墨菲定律 · 羊群效应
+- 长尾效应 · 二八定律 · 帕金森定律 · 彼得原理 · 木桶定律
+- 手表定律 · 蘑菇管理定律 · 鲶鱼效应 · 霍桑效应 · 螃蟹效应
+- 职场生态位与利益博弈 · 社会心理学与人际边界网
+- [更多 →](../20_Areas/05_Social_MOC)
+
+### 🔧 生存技能 Applied Skills
+
+> 现代成年人必备的实用知识——法律、医疗、财务、安全。
+
+- 个人征信与信用卡机制 · 个税汇算与社保账户 · 院前急救与黄金窗口
+- 商业保险配置逻辑 · 投资防骗与资产配置 · 紧急备用金与现金流管理
+- 劳动争议与维权 · 消费者保护与合同 · 医疗系统逆向工程
+- [更多 →](../20_Areas/06_Applied_MOC)
+
+### ⚛️ 物理学 Physics
+
+> 从牛顿力学到量子物理，从生活现象到宇宙尽头。
+
+- 光的反射与折射 · 能量守恒 · 质能方程 · 杠杆平衡 · 浮力定律
+- 电磁感应 · 变压器 · 短路与过载 · 安全电压
+- 黑洞 · 波粒二象性 · 原子结构 · 红移现象
+- [更多 →](../30_Cards/10_Physics)
+
+### 🤖 人工智能 Artificial Intelligence
+
+> 从大语言模型到 Agent，从 Prompt 工程到 AI 安全。
+
+- LLM · Transformer · Attention Mechanism · Chain of Thought
+- RAG · Fine-tuning · Quantization · RLHF
+- Agent · Multi-modal · AIGC · Alignment · Hallucination
+- [更多 →](../30_Cards/20_AI)
+
+---
+
+## 📊 统计
+
+- **总笔记数**: 161+
+- **分类数**: 7 大类
+- **子领域**: 物理学 · 人工智能 · 认知科学 · 社会学 · 实用技能
+- **构建工具**: Obsidian + Quartz + GitHub Pages
+
+---
+
+## 🔗 导航
+
+- [📂 全部笔记 (Explorer)](../)
+- [🗺️ 认知科学地图](../20_Areas/04_Human_MOC)
+- [🏛️ 社会与组织地图](../20_Areas/05_Social_MOC)
+- [🔧 应用工程地图](../20_Areas/06_Applied_MOC)
+- [📄 GitHub 仓库](https://github.com/matteoqf/quartz)
