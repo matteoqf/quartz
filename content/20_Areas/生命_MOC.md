@@ -1,4 +1,4 @@
-# 03_Life_MOC MOC
+# Life MOC
 
 ## Life
 

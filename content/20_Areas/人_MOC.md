@@ -1,4 +1,4 @@
-# 04_Human MOC
+# Human MOC
 
 ## 认知偏差 Cognitive Biases
 

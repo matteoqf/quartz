@@ -1,4 +1,4 @@
-# 05_Social MOC
+# Social MOC
 
 ## 社会学效应 Sociological Effects
 

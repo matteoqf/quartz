@@ -1,4 +1,4 @@
-# 06_Applied MOC
+# Applied MOC
 
 ## 生存技能 Survival Skills
 
