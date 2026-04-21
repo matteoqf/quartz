@@ -1,31 +1,24 @@
-# Formal MOC
+# 形式科学 MOC
 
-## 开发工具 Development Tools
+## Formal Sciences
 
-- [Fnm教程](../30_Cards/应用技术/Fnm教程.md)
-- [yabai教程](../30_Cards/应用技术/yabai教程.md)
-
-## 人工智能 Artificial Intelligence
-
-- [LLM_大语言模型](../30_Cards/形式科学/LLM_大语言模型.md)
-- [Transformer](../30_Cards/形式科学/Transformer.md)
-- [Attention_Mechanism](../30_Cards/形式科学/Attention_Mechanism.md)
-- [Chain_of_Thought_CoT_思维链](../30_Cards/形式科学/Chain_of_Thought_CoT_思维链.md)
-- [Neural_Network](../30_Cards/形式科学/Neural_Network.md)
-- [RAG_检索增强生成](../30_Cards/形式科学/RAG_检索增强生成.md)
-- [Token](../30_Cards/形式科学/Token.md)
-- [Inference](../30_Cards/形式科学/Inference.md)
-- [Fine-tuning](../30_Cards/形式科学/Fine-tuning.md)
-- [Text_to_Video_文生视频](../30_Cards/形式科学/Text_to_Video_文生视频.md)
-- [GPU](../30_Cards/形式科学/GPU.md)
-- [Pre-training](../30_Cards/形式科学/Pre-training.md)
-- [Compute_算力](../30_Cards/形式科学/Compute_算力.md)
-- [Context_Window_上下文窗口](../30_Cards/形式科学/Context_Window_上下文窗口.md)
-- [Dataset_数据集](../30_Cards/形式科学/Dataset_数据集.md)
-- [Emergence_涌现](../30_Cards/形式科学/Emergence_涌现.md)
-- [Few-shot_少量样本学习](../30_Cards/形式科学/Few-shot_少量样本学习.md)
-- [Quantization_量化](../30_Cards/形式科学/Quantization_量化.md)
-- [RLHF_人类反馈强化学习](../30_Cards/形式科学/RLHF_人类反馈强化学习.md)
-- [Scaling_Laws_缩放法则](../30_Cards/形式科学/Scaling_Laws_缩放法则.md)
-- [Weight_权重](../30_Cards/形式科学/Weight_权重.md)
-- [Zero-shot_零样本学习](../30_Cards/形式科学/Zero-shot_零样本学习.md)
+- [API版本控制策略](../30_Cards/形式科学/API版本控制策略.md)
+- [Git rebase与merge本质区别](../30_Cards/形式科学/Git rebase与merge本质区别.md)
+- [REST与GraphQL选型决策](../30_Cards/形式科学/REST与GraphQL选型决策.md)
+- [二分查找及其应用边界](../30_Cards/形式科学/二分查找及其应用边界.md)
+- [代码审查checklist制定](../30_Cards/形式科学/代码审查checklist制定.md)
+- [分布式一致性问题CAP定理](../30_Cards/形式科学/分布式一致性问题CAP定理.md)
+- [前端状态管理方案对比](../30_Cards/形式科学/前端状态管理方案对比.md)
+- [单元测试策略GivenWhenThen](../30_Cards/形式科学/单元测试策略GivenWhenThen.md)
+- [哈希表冲突解决策略](../30_Cards/形式科学/哈希表冲突解决策略.md)
+- [容器化与Kubernetes核心概念](../30_Cards/形式科学/容器化与Kubernetes核心概念.md)
+- [常见架构反模式](../30_Cards/形式科学/常见架构反模式.md)
+- [微服务拆分原则](../30_Cards/形式科学/微服务拆分原则.md)
+- [技术债识别与管理](../30_Cards/形式科学/技术债识别与管理.md)
+- [数据库索引数据结构原理](../30_Cards/形式科学/数据库索引数据结构原理.md)
+- [消息队列选型Kafka与RabbitMQ](../30_Cards/形式科学/消息队列选型Kafka与RabbitMQ.md)
+- [系统设计基础模块拆分](../30_Cards/形式科学/系统设计基础模块拆分.md)
+- [缓存策略与失效机制](../30_Cards/形式科学/缓存策略与失效机制.md)
+- [设计模式分类与适用场景](../30_Cards/形式科学/设计模式分类与适用场景.md)
+- [队列与栈的实现与应用场景](../30_Cards/形式科学/队列与栈的实现与应用场景.md)
+- [面向对象设计SOLID原则](../30_Cards/形式科学/面向对象设计SOLID原则.md)

@@ -1,44 +1,24 @@
-# Applied MOC
+# 应用技术 MOC
 
-## 生存技能 Survival Skills
+## Applied Technology
 
-- [个人征信与信用卡机制](../30_Cards/应用技术/个人征信与信用卡机制.md)
-- [个税汇算与社保账户](../30_Cards/应用技术/个税汇算与社保账户.md)
-- [公共交通与航空安全](../30_Cards/应用技术/公共交通与航空安全.md)
-- [刑事边界与自我防御](../30_Cards/应用技术/刑事边界与自我防御.md)
-- [劳动争议与维权](../30_Cards/应用技术/劳动争议与维权.md)
-- [医疗系统逆向工程](../30_Cards/应用技术/医疗系统逆向工程.md)
-- [商业保险配置逻辑](../30_Cards/应用技术/商业保险配置逻辑.md)
-- [汽车驾驶与事故处理](../30_Cards/应用技术/汽车驾驶与事故处理.md)
-- [消费者保护与合同](../30_Cards/应用技术/消费者保护与合同.md)
-- [灾害防御与逃生](../30_Cards/应用技术/灾害防御与逃生.md)
-- [现代病理防御指南](../30_Cards/应用技术/现代病理防御指南.md)
-- [紧急备用金与现金流管理](../30_Cards/应用技术/紧急备用金与现金流管理.md)
-- [药理基础与OTC管理](../30_Cards/应用技术/药理基础与OTC管理.md)
-- [行政官僚体系对接](../30_Cards/应用技术/行政官僚体系对接.md)
-- [院前急救与黄金窗口](../30_Cards/应用技术/院前急救与黄金窗口.md)
-- [食品安全与食材保存](../30_Cards/应用技术/食品安全与食材保存.md)
-- [民事法律基石与遗嘱继承](../30_Cards/应用技术/民事法律基石与遗嘱继承.md)
-- [当代成年人必备常识领域全景指南](../30_Cards/人类心智/当代成年人必备常识领域全景指南.md)
-
-## 技术工具 Technical Tools
-
-- [密码学与数据安全](../30_Cards/应用技术/密码学与数据安全.md)
-- [数据灾备与信源审查](../30_Cards/应用技术/数据灾备与信源审查.md)
-- [社会工程学反制](../30_Cards/应用技术/社会工程学反制.md)
-- [家庭配电与水管维修](../30_Cards/应用技术/家庭配电与水管维修.md)
-- [化学危险与材料科学](../30_Cards/应用技术/化学危险与材料科学.md)
-- [投资防骗与资产配置](../30_Cards/应用技术/投资防骗与资产配置.md)
-- [Fnm教程](../30_Cards/应用技术/Fnm教程.md)
-- [yabai教程](../30_Cards/应用技术/yabai教程.md)
-
-## 人工智能应用 AI Applications
-
-- [Prompt_提示词](../30_Cards/应用技术/Prompt_提示词.md)
-- [Prompt_Engineering_提示工程](../30_Cards/应用技术/Prompt_Engineering_提示工程.md)
-- [Agent_智能体](../30_Cards/应用技术/Agent_智能体.md)
-- [Multi-modal](../30_Cards/应用技术/Multi-modal.md)
-- [Copilot_副驾驶](../30_Cards/应用技术/Copilot_副驾驶.md)
-- [AIGC_生成式AI](../30_Cards/应用技术/AIGC_生成式AI.md)
-- [Digital_Twin_数字孪生](../30_Cards/应用技术/Digital_Twin_数字孪生.md)
-- [Human-in-the-loop](../30_Cards/应用技术/Human-in-the-loop.md)
+- [AI Agent的架构设计](../30_Cards/应用技术/AI Agent的架构设计.md)
+- [AI大模型的幻觉问题](../30_Cards/应用技术/AI大模型的幻觉问题.md)
+- [API设计与RESTful规范](../30_Cards/应用技术/API设计与RESTful规范.md)
+- [CI_CD工作流程](../30_Cards/应用技术/CI_CD工作流程.md)
+- [Docker容器化部署指南](../30_Cards/应用技术/Docker容器化部署指南.md)
+- [Git协作工作流](../30_Cards/应用技术/Git协作工作流.md)
+- [Kubernetes集群管理](../30_Cards/应用技术/Kubernetes集群管理.md)
+- [Python异步编程](../30_Cards/应用技术/Python异步编程.md)
+- [React组件设计模式](../30_Cards/应用技术/React组件设计模式.md)
+- [Redis缓存设计与最佳实践](../30_Cards/应用技术/Redis缓存设计与最佳实践.md)
+- [TypeScript类型体操](../30_Cards/应用技术/TypeScript类型体操.md)
+- [WebAssembly应用场景](../30_Cards/应用技术/WebAssembly应用场景.md)
+- [前端性能优化](../30_Cards/应用技术/前端性能优化.md)
+- [加密货币钱包安全指南](../30_Cards/应用技术/加密货币钱包安全指南.md)
+- [微服务架构的利弊](../30_Cards/应用技术/微服务架构的利弊.md)
+- [技术选型的评估框架](../30_Cards/应用技术/技术选型的评估框架.md)
+- [提示词工程的技巧](../30_Cards/应用技术/提示词工程的技巧.md)
+- [数据库事务隔离级别](../30_Cards/应用技术/数据库事务隔离级别.md)
+- [检索增强生成RAG原理](../30_Cards/应用技术/检索增强生成RAG原理.md)
+- [边缘计算与CDN](../30_Cards/应用技术/边缘计算与CDN.md)
