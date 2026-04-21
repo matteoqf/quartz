@@ -34,11 +34,11 @@
 
 ## 人工智能应用 AI Applications
 
-- [01_Prompt_提示词](../30_Cards/06_Applied/01_Prompt_提示词.md)
-- [02_Prompt_Engineering_提示工程](../30_Cards/06_Applied/02_Prompt_Engineering_提示工程.md)
-- [05_Agent_智能体](../30_Cards/06_Applied/05_Agent_智能体.md)
-- [05_Multi-modal](../30_Cards/06_Applied/05_Multi-modal.md)
-- [06_Copilot_副驾驶](../30_Cards/06_Applied/06_Copilot_副驾驶.md)
-- [07_AIGC_生成式AI](../30_Cards/06_Applied/07_AIGC_生成式AI.md)
-- [08_Digital_Twin_数字孪生](../30_Cards/06_Applied/08_Digital_Twin_数字孪生.md)
-- [10_Human-in-the-loop](../30_Cards/06_Applied/10_Human-in-the-loop.md)
+- [Prompt_提示词](../30_Cards/06_Applied/Prompt_提示词.md)
+- [Prompt_Engineering_提示工程](../30_Cards/06_Applied/Prompt_Engineering_提示工程.md)
+- [Agent_智能体](../30_Cards/06_Applied/Agent_智能体.md)
+- [Multi-modal](../30_Cards/06_Applied/Multi-modal.md)
+- [Copilot_副驾驶](../30_Cards/06_Applied/Copilot_副驾驶.md)
+- [AIGC_生成式AI](../30_Cards/06_Applied/AIGC_生成式AI.md)
+- [Digital_Twin_数字孪生](../30_Cards/06_Applied/Digital_Twin_数字孪生.md)
+- [Human-in-the-loop](../30_Cards/06_Applied/Human-in-the-loop.md)
