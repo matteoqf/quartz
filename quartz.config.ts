@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "zh-CN",
     baseUrl: "matteoqf.github.io",
-    ignorePatterns: ["quartz.config.ts", "quartz.layout.ts", "quartz/", ".git", "node_modules/", ".obsidian", "50_Media", "99_Private"],
+    ignorePatterns: ["quartz.config.ts", "quartz.layout.ts", "quartz/", ".git", "node_modules/", ".obsidian", "50_Media", "99_Private", "10_Projects"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
