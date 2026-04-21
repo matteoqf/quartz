@@ -1,28 +1,20 @@
-# 04_Human_MOC MOC
+# 04_Human MOC
 
-## Human
+## 认知偏差 Cognitive Biases
 
 - [习得性无助](../30_Cards/04_Human/习得性无助.md)
-- [二八定律](../30_Cards/04_Human/二八定律.md)
 - [从众效应](../30_Cards/04_Human/从众效应.md)
 - [光环效应](../30_Cards/04_Human/光环效应.md)
 - [凡勃伦效应](../30_Cards/04_Human/凡勃伦效应.md)
 - [南风效应](../30_Cards/04_Human/南风效应.md)
 - [基准效应](../30_Cards/04_Human/基准效应.md)
-- [墨菲定律](../30_Cards/04_Human/墨菲定律.md)
 - [安慰剂效应](../30_Cards/04_Human/安慰剂效应.md)
 - [对比效应](../30_Cards/04_Human/对比效应.md)
-- [帕金森定律](../30_Cards/04_Human/帕金森定律.md)
 - [延迟满足效应](../30_Cards/04_Human/延迟满足效应.md)
-- [当代成年人必备常识领域全景指南](../30_Cards/04_Human/当代成年人必备常识领域全景指南.md)
-- [彼得原理](../30_Cards/04_Human/彼得原理.md)
 - [德西效应](../30_Cards/04_Human/德西效应.md)
-- [心理危机干预](../30_Cards/04_Human/心理危机干预.md)
-- [手表定律](../30_Cards/04_Human/手表定律.md)
 - [投射效应](../30_Cards/04_Human/投射效应.md)
 - [暗示效应](../30_Cards/04_Human/暗示效应.md)
 - [曝光效应](../30_Cards/04_Human/曝光效应.md)
-- [木桶定律](../30_Cards/04_Human/木桶定律.md)
 - [框架效应](../30_Cards/04_Human/框架效应.md)
 - [棘轮效应](../30_Cards/04_Human/棘轮效应.md)
 - [沉没成本效应](../30_Cards/04_Human/沉没成本效应.md)
@@ -30,17 +22,10 @@
 - [甜柠檬效应](../30_Cards/04_Human/甜柠檬效应.md)
 - [登门槛效应](../30_Cards/04_Human/登门槛效应.md)
 - [确认偏误](../30_Cards/04_Human/确认偏误.md)
-- [社会心理学与人际边界网](../30_Cards/04_Human/社会心理学与人际边界网.md)
 - [禁果效应](../30_Cards/04_Human/禁果效应.md)
 - [缺憾效应](../30_Cards/04_Human/缺憾效应.md)
-- [羊群效应](../30_Cards/04_Human/羊群效应.md)
-- [职场生态位与利益博弈](../30_Cards/04_Human/职场生态位与利益博弈.md)
 - [自我实现预言](../30_Cards/04_Human/自我实现预言.md)
-- [蘑菇管理定律](../30_Cards/04_Human/蘑菇管理定律.md)
-- [蝴蝶效应](../30_Cards/04_Human/蝴蝶效应.md)
-- [螃蟹效应](../30_Cards/04_Human/螃蟹效应.md)
 - [责任分散效应](../30_Cards/04_Human/责任分散效应.md)
-- [路径依赖效应](../30_Cards/04_Human/路径依赖效应.md)
 - [踢猫效应](../30_Cards/04_Human/踢猫效应.md)
 - [过度合理化效应](../30_Cards/04_Human/过度合理化效应.md)
 - [过度理由效应](../30_Cards/04_Human/过度理由效应.md)
@@ -48,9 +33,10 @@
 - [酒水效应](../30_Cards/04_Human/酒水效应.md)
 - [酸葡萄效应](../30_Cards/04_Human/酸葡萄效应.md)
 - [野马结局](../30_Cards/04_Human/野马结局.md)
-- [长尾效应](../30_Cards/04_Human/长尾效应.md)
 - [阿伦森效应](../30_Cards/04_Human/阿伦森效应.md)
-- [霍桑效应](../30_Cards/04_Human/霍桑效应.md)
 - [首因效应](../30_Cards/04_Human/首因效应.md)
-- [鲶鱼效应](../30_Cards/04_Human/鲶鱼效应.md)
 - [鸟笼效应](../30_Cards/04_Human/鸟笼效应.md)
+
+## 心理健康 Mental Health
+
+- [心理危机干预](../30_Cards/04_Human/心理危机干预.md)

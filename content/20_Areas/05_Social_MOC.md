@@ -1,6 +1,25 @@
-# 05_Social_MOC MOC
+# 05_Social MOC
 
-## Social
+## 社会学效应 Sociological Effects
 
-- [破窗效应](../30_Cards/05_Social/破窗效应.md)
 - [马太效应](../30_Cards/05_Social/马太效应.md)
+- [破窗效应](../30_Cards/05_Social/破窗效应.md)
+- [蝴蝶效应](../30_Cards/04_Human/蝴蝶效应.md)
+- [墨菲定律](../30_Cards/04_Human/墨菲定律.md)
+- [羊群效应](../30_Cards/04_Human/羊群效应.md)
+- [长尾效应](../30_Cards/04_Human/长尾效应.md)
+- [二八定律](../30_Cards/04_Human/二八定律.md)
+- [路径依赖效应](../30_Cards/04_Human/路径依赖效应.md)
+- [社会心理学与人际边界网](../30_Cards/04_Human/社会心理学与人际边界网.md)
+
+## 组织管理 Organizational Management
+
+- [帕金森定律](../30_Cards/04_Human/帕金森定律.md)
+- [彼得原理](../30_Cards/04_Human/彼得原理.md)
+- [木桶定律](../30_Cards/04_Human/木桶定律.md)
+- [手表定律](../30_Cards/04_Human/手表定律.md)
+- [蘑菇管理定律](../30_Cards/04_Human/蘑菇管理定律.md)
+- [鲶鱼效应](../30_Cards/04_Human/鲶鱼效应.md)
+- [霍桑效应](../30_Cards/04_Human/霍桑效应.md)
+- [螃蟹效应](../30_Cards/04_Human/螃蟹效应.md)
+- [职场生态位与利益博弈](../30_Cards/04_Human/职场生态位与利益博弈.md)
