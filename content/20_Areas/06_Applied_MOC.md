@@ -31,3 +31,14 @@
 - [投资防骗与资产配置](../30_Cards/06_Applied/投资防骗与资产配置.md)
 - [Fnm教程](../30_Cards/06_Applied/Fnm教程.md)
 - [yabai教程](../30_Cards/06_Applied/yabai教程.md)
+
+## 人工智能应用 AI Applications
+
+- [01_Prompt_提示词](../30_Cards/06_Applied/01_Prompt_提示词.md)
+- [02_Prompt_Engineering_提示工程](../30_Cards/06_Applied/02_Prompt_Engineering_提示工程.md)
+- [05_Agent_智能体](../30_Cards/06_Applied/05_Agent_智能体.md)
+- [05_Multi-modal](../30_Cards/06_Applied/05_Multi-modal.md)
+- [06_Copilot_副驾驶](../30_Cards/06_Applied/06_Copilot_副驾驶.md)
+- [07_AIGC_生成式AI](../30_Cards/06_Applied/07_AIGC_生成式AI.md)
+- [08_Digital_Twin_数字孪生](../30_Cards/06_Applied/08_Digital_Twin_数字孪生.md)
+- [10_Human-in-the-loop](../30_Cards/06_Applied/10_Human-in-the-loop.md)

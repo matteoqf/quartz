@@ -40,3 +40,24 @@
 ## 心理健康 Mental Health
 
 - [心理危机干预](../30_Cards/04_Human/心理危机干预.md)
+
+## 人工智能 AI
+
+- [10_AGI](../30_Cards/04_Human/10_AGI.md)
+- [10_ASI](../30_Cards/04_Human/10_ASI.md)
+- [10_Embodied_AI](../30_Cards/04_Human/10_Embodied_AI.md)
+- [10_Infinite_Content](../30_Cards/04_Human/10_Infinite_Content.md)
+- [10_Post-Labor_Economy](../30_Cards/04_Human/10_Post-Labor_Economy.md)
+- [10_SaaS_2.0](../30_Cards/04_Human/10_SaaS_2.0.md)
+- [10_Singularity](../30_Cards/04_Human/10_Singularity.md)
+- [10_Turing_Test](../30_Cards/04_Human/10_Turing_Test.md)
+- [11_AI_Ethics_AI伦理](../30_Cards/04_Human/11_AI_Ethics_AI伦理.md)
+- [11_Alignment_对齐](../30_Cards/04_Human/11_Alignment_对齐.md)
+- [11_Bias_偏见](../30_Cards/04_Human/11_Bias_偏见.md)
+- [11_Black_Box_黑盒](../30_Cards/04_Human/11_Black_Box_黑盒.md)
+- [11_Data_Privacy_数据隐私](../30_Cards/04_Human/11_Data_Privacy_数据隐私.md)
+- [11_Deepfake_深度伪造](../30_Cards/04_Human/11_Deepfake_深度伪造.md)
+- [11_Explainable_AI_XAI_可解释AI](../30_Cards/04_Human/11_Explainable_AI_XAI_可解释AI.md)
+- [11_Hallucination_幻觉](../30_Cards/04_Human/11_Hallucination_幻觉.md)
+- [11_Jailbreak_解狱](../30_Cards/04_Human/11_Jailbreak_解狱.md)
+- [11_Watermark_数字水印](../30_Cards/04_Human/11_Watermark_数字水印.md)
